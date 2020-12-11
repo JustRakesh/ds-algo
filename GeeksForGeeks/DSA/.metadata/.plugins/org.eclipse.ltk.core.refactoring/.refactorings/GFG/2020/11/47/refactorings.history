@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 2 elements from project &apos;GFG&apos;&#x0D;&#x0A;- Original project: &apos;GFG&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     recursion.App.java&#x0D;&#x0A;     recursion.Book.java" description="Delete elements" element1="/src&lt;recursion{App.java" element2="/src&lt;recursion{Book.java" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1605583886539" subPackages="false" version="1.0"/>
+</session>

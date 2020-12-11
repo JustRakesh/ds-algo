@@ -1,0 +1,25 @@
+package introduction;
+
+public class lecture1 {
+
+	public static int sumFirstNNumbers(int n) {
+		int sum = 0;
+		for (int i = 1; i <= n; i++) {
+			sum += i;
+		}
+		return sum;
+	}
+
+	public static int sumFirstNNumbersUsingFormula(int n) {
+		int sum = n * (n + 1) / 2;
+		return sum;
+	}
+
+	public static void main(String[] args) {
+		System.out.println(lecture1.sumFirstNNumbers(5));
+		System.out.println(lecture1.sumFirstNNumbersUsingFormula(5));
+		System.out.println(1+1);
+		System.out.println(1+"1");
+
+	}
+}
